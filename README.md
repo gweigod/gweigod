@@ -4,8 +4,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gweigod?style=social&logo=twitter)](https://twitter.com/gweigod) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 📨 How to reach me https://twitter.com/GweiGod
 
 ### Connect:
